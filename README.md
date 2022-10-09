@@ -1,6 +1,6 @@
 # projets_perso
 ## construire un robot capable de résoudre des jeux Sudokus sous la forme d'un Problème de Satisfaction de Contraintes (CSP).
-Contraintes à respecter  
+Contraintes à respecter :  
   ● La dimension du tableau doit être de 9x9, divisée en 9 sections de 3x3  
   ● Au démarrage, le système doit présenter le tableau Sudoku initial avec quelques cellules préremplies  
   ● Le tableau de départ pré-remplie doit être générée aléatoirement  
