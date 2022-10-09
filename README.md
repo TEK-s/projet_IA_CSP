@@ -6,7 +6,7 @@ Contraintes à respecter :
   * Le tableau de départ pré-remplie doit être générée aléatoirement  
   * Le système doit permettre d'ajouter un nouveau Sudoku, c'est-à-dire que l'utilisateur peut créersa propre table initiale  
   * Après avoir terminé le jeux, le système devrait présenter le tableau de Sudoku final avec toutes les cellules remplies  
-  * Vous devez respecter la modélisation d'un CSP avec backtracking, même s'il existe d'autres moyens plus simples de mettre en œuvre la solution du problème  
-  * Vous devez modéliser votre CSP à l'aide de contraintes binaires  
+  * Respecter la modélisation d'un CSP avec backtracking, pour mettre en œuvre la solution du problème  
+  * Modéliser le CSP à l'aide de contraintes binaires  
 ## Combinaison d'algorithmes utlisée:  
   * backtracking + MRV avec degree heuristique
