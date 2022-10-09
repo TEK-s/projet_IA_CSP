@@ -1,4 +1,4 @@
-# IA
+# IA projet sur CSP
 ## construire un robot capable de résoudre des jeux Sudokus sous la forme d'un Problème de Satisfaction de Contraintes (CSP).
 Contraintes à respecter :  
   * La dimension du tableau doit être de 9x9, divisée en 9 sections de 3x3  
